@@ -1,0 +1,15 @@
+Build started at 2018-09-27T23:41:17.212235
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.48.0
+Source dir: /home/veronika/Загрузки/project1
+Build dir: /home/veronika/Загрузки/project1/build
+Build type: native build
+
+meson.build:7:4: ERROR:  Expecting rparen got id.
+    default_options: ['cpp_std=c++11'] #используемый стандарт
+    ^
+For a block that started at 1,7
+project(
+       ^
